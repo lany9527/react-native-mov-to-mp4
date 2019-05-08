@@ -4,7 +4,7 @@
  */
 import {
   Platform,
-  NativeModules,
+    NativeModules,
 } from 'react-native';
 
 var warning = require('fbjs/lib/warning');
